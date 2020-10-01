@@ -254,13 +254,13 @@ span.number-circle {
   color: #999;
   border-radius: 50%;
   border: 2px solid #999;
-  width: 30px;
-  height: 30px;
+  width: 35px;
+  height: 35px;
   text-align: center;
-  line-height: 24px;
+  line-height: 23px;
   display: block;
   float: left;
-  margin-right: 7px;
+  margin-right: 8px;
   font-size: 20px;
 }
 
@@ -376,13 +376,13 @@ ul.doc-breadcrumbs-nav .here-note {
 }
 
 #toc-dropdown-button-separate {
-  margin-top: 10px;
+  margin-top: 11px;
   margin-bottom: 0px;
   text-transform: uppercase;
 }
 
 #toc-dropdown li.toc-indent-h2 {
-  text-indent: 10px;
+  text-indent: 11px;
 }
 
 #toc-dropdown li.toc-indent-h3 {
